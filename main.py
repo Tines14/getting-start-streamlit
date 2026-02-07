@@ -45,7 +45,7 @@ if st.session_state.show_text:
     import streamlit as st
 
     # From a local file
-    st.image("puthai.jpg", caption="Sunrise by the mountains")  # local path [[st.image](https://docs.streamlit.io/develop/api-reference/media/st.image)]
+    #st.image("puthai.jpg", caption="Sunrise by the mountains")  # local path [[st.image](https://docs.streamlit.io/develop/api-reference/media/st.image)]
 
     # From a URL
     #st.image("https://example.com/myimage.jpg")  # URL [[Media elements](https://docs.streamlit.io/develop/api-reference/media)]
